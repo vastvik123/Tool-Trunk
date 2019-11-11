@@ -1,0 +1,10 @@
+.column{
+    width:50%;
+    flex:50%;
+    margin-left:10%;
+}
+
+#main{
+    margin-top:15%;
+    display:flex;
+}
